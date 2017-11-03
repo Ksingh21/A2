@@ -1,0 +1,44 @@
+/*
+Theme Name: Twenty Seventeen Child
+Description: Twenty Seventeen Child Theme
+Author: Khushwant Singh
+Template: twentyseventeen
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: twenty-fifteen-child
+*/
+
+/* hide powered by wordpress */
+.site-info { display:none;}
+
+/* Change page title font size */
+h1.page-title {font-size: 2rem ;}
+
+/* Change post title font size */
+h1.entry-title {font-size: 2rem ;}
+
+/* Change widget title font size*/
+h2.widget-title {font-size: 1rem ;}
+
+/* Hide date in posts */
+.entry-meta { display:none;}
+
+/* change link color */
+a {color: #aaa;}
+
+/* change site tile font */
+p.site-title {font-family:verdana;}
+
+/* change comment label font style*/
+label {font-weight:normal;}
+
+/* change comment heading font style */
+h3 {font-weight:bold;}
+
+/* Add padding to website title */
+div.site-branding {padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;}
